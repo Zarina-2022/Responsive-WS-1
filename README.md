@@ -8,7 +8,7 @@
 
 <h4> <b>Screen view:</b></h4>
 
-![](WS-1.gif)
+![](WS-1(sv).gif)
 
 <h4>How to download:</h4>
 
